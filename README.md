@@ -9,16 +9,16 @@ When users click the **“Book Now”** button on different train cards, a notif
 ## 📸 Preview  
 
 ### 🏠 Home UI
-![Home](./src/assets/home.png)
+![Home](src/assets/home.png)
 
 ### 🔔 Notification (Success)
-![Success](./src/assets/success.png)
+![Success](src/assets/success.png)
 
 ### ⚠️ Notification (Warning)
-![Warning](./src/assets/warning.png)
+![Warning](src/assets/warning.png)
 
 ### ❌ Notification (Error)
-![Error](./src/assets/error.png)
+![Error](src/assets/error.png)
 
 ## ✨ Features  
 
